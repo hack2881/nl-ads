@@ -20,6 +20,33 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 static.doubleclick.net
 
+# Analytics Domains Blocklist
+0.0.0.0 google-analytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 analytics.google.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 app-measurement.com
+0.0.0.0 mobile-analytics.amazon.com
+0.0.0.0 omniture.com
+0.0.0.0 metrics.analytics.yahoo.com
+0.0.0.0 sc.analytics.yahoo.com
+0.0.0.0 adobe-analytics.com
+0.0.0.0 www.adobe-analytics.com
+0.0.0.0 woopra.com
+0.0.0.0 in.getclicky.com
+0.0.0.0 www.getclicky.com
+0.0.0.0 clicky.com
+0.0.0.0 c.getclicky.com
+0.0.0.0 stats.wp.com
+0.0.0.0 piwik.pro
+0.0.0.0 www.piwik.pro
+0.0.0.0 matomo.org
+0.0.0.0 stats.matomo.org
+0.0.0.0 analytics.matomo.cloud
+0.0.0.0 analytics.quantcast.com
+0.0.0.0 pixel.quantserve.com
+
 # YouTube Ads Blocklist
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
