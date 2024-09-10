@@ -229,3 +229,16 @@
 0.0.0.0 ads4.amazon.com
 0.0.0.0 aws.amazon.com
 0.0.0.0 s3.amazonaws.com
+
+# ad.doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 activity.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
