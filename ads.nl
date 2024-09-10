@@ -179,3 +179,25 @@
 0.0.0.0 telegram.me
 0.0.0.0 cdn.telegram.org
 0.0.0.0 dns-telegram.com
+
+# Amazon Ads and Tracking Blocklist
+0.0.0.0 amazon.com
+0.0.0.0 www.amazon.com
+0.0.0.0 ads.amazon.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-us-west.amazon-adsystem.com
+0.0.0.0 images-na.ssl-images-amazon.com
+0.0.0.0 tag.amazon.com
+0.0.0.0 pixel.amazon.com
+0.0.0.0 data.amazon.com
+0.0.0.0 analytics.amazon.com
+0.0.0.0 static.amazon-adsystem.com
+0.0.0.0 a-bc.amazon.com
+0.0.0.0 ads-eu.amazon.com
+0.0.0.0 ads1.amazon.com
+0.0.0.0 ads2.amazon.com
+0.0.0.0 ads3.amazon.com
+0.0.0.0 ads4.amazon.com
+0.0.0.0 aws.amazon.com
