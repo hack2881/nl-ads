@@ -201,3 +201,4 @@
 0.0.0.0 ads3.amazon.com
 0.0.0.0 ads4.amazon.com
 0.0.0.0 aws.amazon.com
+0.0.0.0 s3.amazonaws.com
