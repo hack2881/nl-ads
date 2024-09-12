@@ -320,3 +320,10 @@
 0.0.0.0 www.trekpleister.nl/blijmakers/pagead/
 0.0.0.0 www.trekpleister.nl/blijmakers/ads/
 0.0.0.0 www.trekpleister.nl/blijmakers/track/
+==============================================
+      # bol.com
+0.0.0.0 bol.com/pagead/
+0.0.0.0 bol.com/ads/
+0.0.0.0 bol.com/track/
+0.0.0.0 bol.com/advertisement/
+0.0.0.0 bol.com/adsbygoogle/
