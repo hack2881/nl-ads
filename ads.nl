@@ -287,3 +287,6 @@
 0.0.0.0 shein.com/ads
 0.0.0.0 shein.com/track
 0.0.0.0 shein.com/marketing
+0.0.0.0 app.shein.com/ads
+0.0.0.0 app.shein.com/track
+0.0.0.0 app.shein.com/marketing
