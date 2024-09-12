@@ -279,3 +279,11 @@
 0.0.0.0 temu.com/nl/ads
 0.0.0.0 temu.com/nl/track
 0.0.0.0 temu.com/nl/marketing
+
+# shein.com
+0.0.0.0 nl.shein.com/ads
+0.0.0.0 nl.shein.com/track
+0.0.0.0 nl.shein.com/marketing
+0.0.0.0 shein.com/ads
+0.0.0.0 shein.com/track
+0.0.0.0 shein.com/marketing
