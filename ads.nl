@@ -273,3 +273,6 @@
 0.0.0.0 m.temu.com/track
 0.0.0.0 m.temu.com/pagead
 0.0.0.0 m.temu.com/marketing
+0.0.0.0 temu.com/api/ads
+0.0.0.0 temu.com/api/track
+0.0.0.0 temu.com/api/marketing
