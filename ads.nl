@@ -246,3 +246,8 @@
 # googlevideo.com
 0.0.0.0 googlevideo.com
 0.0.0.0 ||googlevideo.com^$third-party
+0.0.0.0 rr1---*.googlevideo.com
+0.0.0.0 rr2---*.googlevideo.com
+0.0.0.0 rr3---*.googlevideo.com
+0.0.0.0 rr4---*.googlevideo.com
+0.0.0.0 rr5---*.googlevideo.com
