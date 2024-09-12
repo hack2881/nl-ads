@@ -48,6 +48,11 @@
 0.0.0.0 pixel.quantserve.com
 
 # YouTube Ads Blocklist
+0.0.0.0 youtube.com/watch*ad*
+0.0.0.0 youtube.com/watch*advertisement*
+0.0.0.0 youtube.com/watch*popup*
+0.0.0.0 youtube.com/watch*video_ads*
+0.0.0.0 youtube.com/watch*googlevideo.com/*
 0.0.0.0 www.youtube.com/api/stats/ads
 0.0.0.0 www.youtube.com/pagead/ads
 0.0.0.0 m.youtube.com/api/stats/ads
