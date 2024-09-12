@@ -19,9 +19,9 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 static.doubleclick.net
-0.0.0.0 adssettings.google.com
-0.0.0.0 adssettings.google.com/ad
-0.0.0.0 adssettings.google.com/track
+0.0.0.0 adssettings.google.com/*
+0.0.0.0 adssettings.google.com/*ad*
+0.0.0.0 adssettings.google.com/*track*
 
 # Analytics Domains Blocklist
 0.0.0.0 google-analytics.com
@@ -270,6 +270,13 @@
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
 
+# play.google.com
+0.0.0.0 play.google.com/*ad*
+0.0.0.0 play.google.com/*advertisement*
+0.0.0.0 play.google.com/*pagead*
+0.0.0.0 play.google.com/*track*
+0.0.0.0 play.google.com/*googlevideo.com*
+
 # googlevideo.com
 0.0.0.0 googlevideo.com
 0.0.0.0 ||googlevideo.com^$third-party
@@ -335,3 +342,10 @@
 0.0.0.0 bol.com/track/
 0.0.0.0 bol.com/advertisement/
 0.0.0.0 bol.com/adsbygoogle/
+================================
+      # dropgigant.nl
+0.0.0.0 dropgigant.nl/*ad*
+0.0.0.0 dropgigant.nl/*advertisement*
+0.0.0.0 dropgigant.nl/*pagead*
+0.0.0.0 dropgigant.nl/*track*
+0.0.0.0 dropgigant.nl/*googlevideo.com*
