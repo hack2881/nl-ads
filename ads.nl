@@ -262,3 +262,8 @@
 0.0.0.0 rr3---*.googlevideo.com
 0.0.0.0 rr4---*.googlevideo.com
 0.0.0.0 rr5---*.googlevideo.com
+0.0.0.0 r1---*.googlevideo.com
+0.0.0.0 r2---*.googlevideo.com
+0.0.0.0 r3---*.googlevideo.com
+0.0.0.0 r4---*.googlevideo.com
+0.0.0.0 r5---*.googlevideo.com
