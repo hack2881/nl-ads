@@ -298,3 +298,12 @@
 0.0.0.0 app.shein.com/ads
 0.0.0.0 app.shein.com/track
 0.0.0.0 app.shein.com/marketing
+
+# youtube dutch mix ads
+      # kevintimmerdaytrayding.nl 
+0.0.0.0 kevintimmerdaytrayding.nl/pagead/
+0.0.0.0 kevintimmerdaytrayding.nl/ads/
+0.0.0.0 kevintimmerdaytrayding.nl/track/
+0.0.0.0 mykreativemind.com/pagead/
+0.0.0.0 mykreativemind.com/ads/
+0.0.0.0 mykreativemind.com/track/
