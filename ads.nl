@@ -307,3 +307,8 @@
 0.0.0.0 mykreativemind.com/pagead/
 0.0.0.0 mykreativemind.com/ads/
 0.0.0.0 mykreativemind.com/track/
+=================================
+      # lu.nl
+0.0.0.0 lu.nl/pagead/
+0.0.0.0 lu.nl/ads/
+0.0.0.0 lu.nl/track/
