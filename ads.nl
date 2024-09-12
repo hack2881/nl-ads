@@ -276,3 +276,6 @@
 0.0.0.0 temu.com/api/ads
 0.0.0.0 temu.com/api/track
 0.0.0.0 temu.com/api/marketing
+0.0.0.0 temu.com/nl/ads
+0.0.0.0 temu.com/nl/track
+0.0.0.0 temu.com/nl/marketing
