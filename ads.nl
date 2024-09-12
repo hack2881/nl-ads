@@ -151,6 +151,10 @@
 0.0.0.0 muscdn.com
 
 # Instagram Ads and Tracking Blocklist
+0.0.0.0 www.instagram.com/api/v1/ads/
+0.0.0.0 www.instagram.com/pagead/
+0.0.0.0 www.instagram.com/ajax/bz
+0.0.0.0 www.instagram.com/promotions/
 0.0.0.0 instagram.com
 0.0.0.0 www.instagram.com
 0.0.0.0 ads.instagram.com
