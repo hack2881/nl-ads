@@ -242,3 +242,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
+
+# googlevideo.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ||googlevideo.com^$third-party
