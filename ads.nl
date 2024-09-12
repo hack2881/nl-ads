@@ -103,6 +103,9 @@
 0.0.0.0 facebook.de
 0.0.0.0 facebook.it
 0.0.0.0 facebook.es
+0.0.0.0 m.facebook.com/ads
+0.0.0.0 m.facebook.com/adnw
+0.0.0.0 m.facebook.com/pagead
 
 # Snapchat Ads and Tracking Blocklist
 0.0.0.0 ads.snapchat.com
