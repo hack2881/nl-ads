@@ -51,6 +51,11 @@
 0.0.0.0 pixel.quantserve.com
 
 # YouTube Ads Blocklist
+0.0.0.0 youtube.com/premium/*ad*
+0.0.0.0 youtube.com/premium/*advertisement*
+0.0.0.0 youtube.com/premium/*pagead*
+0.0.0.0 youtube.com/premium/*track*
+0.0.0.0 youtube.com/premium/*googlevideo.com*
 0.0.0.0 youtube.com/watch*ad*
 0.0.0.0 youtube.com/watch*advertisement*
 0.0.0.0 youtube.com/watch*popup*
