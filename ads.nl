@@ -19,6 +19,9 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 adssettings.google.com
+0.0.0.0 adssettings.google.com/ad
+0.0.0.0 adssettings.google.com/track
 
 # Analytics Domains Blocklist
 0.0.0.0 google-analytics.com
