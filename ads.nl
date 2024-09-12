@@ -258,3 +258,8 @@
 0.0.0.0 rr3---*.googlevideo.com
 0.0.0.0 rr4---*.googlevideo.com
 0.0.0.0 rr5---*.googlevideo.com
+0.0.0.0 rr1---sn-32o-1the.gvt1.com
+0.0.0.0 rr2---sn-32o-1the.gvt1.com
+0.0.0.0 rr3---sn-32o-1the.gvt1.com
+0.0.0.0 rr4---sn-32o-1the.gvt1.com
+0.0.0.0 rr5---sn-32o-1the.gvt1.com
