@@ -48,6 +48,10 @@
 0.0.0.0 pixel.quantserve.com
 
 # YouTube Ads Blocklist
+0.0.0.0 www.youtube.com/api/stats/ads
+0.0.0.0 www.youtube.com/pagead/ads
+0.0.0.0 m.youtube.com/api/stats/ads
+0.0.0.0 m.youtube.com/pagead/ads
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pubads.g.doubleclick.net
