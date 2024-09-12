@@ -312,3 +312,11 @@
 0.0.0.0 lu.nl/pagead/
 0.0.0.0 lu.nl/ads/
 0.0.0.0 lu.nl/track/
+=================================
+      # trekpleister.nl
+0.0.0.0 www.trekpleister.nl/pagead/
+0.0.0.0 www.trekpleister.nl/ads/
+0.0.0.0 www.trekpleister.nl/track/
+0.0.0.0 www.trekpleister.nl/blijmakers/pagead/
+0.0.0.0 www.trekpleister.nl/blijmakers/ads/
+0.0.0.0 www.trekpleister.nl/blijmakers/track/
