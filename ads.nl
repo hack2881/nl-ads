@@ -83,6 +83,10 @@
 0.0.0.0 r5---sn-ab5l6nlr.googlevideo.com
 0.0.0.0 r6---sn-ab5l6nlr.googlevideo.com
 0.0.0.0 manifest.googlevideo.com
+0.0.0.0 www.youtube.com/get_video_info?adformat=
+0.0.0.0 www.youtube.com/api/stats/ads
+0.0.0.0 www.youtube.com/pagead/
+0.0.0.0 www.youtube.com/yts/jsbin/player-ads
 
 # Facebook Ads and Tracking Blocklist
 0.0.0.0 facebook.com
