@@ -374,3 +374,10 @@
 0.0.0.0 dropgigant.nl/*pagead*
 0.0.0.0 dropgigant.nl/*track*
 0.0.0.0 dropgigant.nl/*googlevideo.com*
+========================================
+      # inshared.nl
+0.0.0.0 inshared.nl/*ad*
+0.0.0.0 inshared.nl/*advertisement*
+0.0.0.0 inshared.nl/*pagead*
+0.0.0.0 inshared.nl/*track*
+0.0.0.0 inshared.nl/*googlevideo.com*
