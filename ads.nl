@@ -282,6 +282,13 @@
 0.0.0.0 play.google.com/*track*
 0.0.0.0 play.google.com/*googlevideo.com*
 
+# mail.google.com
+0.0.0.0 mail.google.com##div[aria-label="Gesponsord"]
+0.0.0.0 mail.google.com##.BltHke.nH
+0.0.0.0 mail.google.com##.BltHke[role="button"]
+0.0.0.0 mail.google.com##.aKB
+0.0.0.0 mail.google.com##.zA.zE
+
 # googlevideo.com
 0.0.0.0 googlevideo.com
 0.0.0.0 ||googlevideo.com^$third-party
@@ -378,3 +385,15 @@
 0.0.0.0 real-deal-dagen.kim.nl/*pagead*
 0.0.0.0 real-deal-dagen.kim.nl/*track*
 0.0.0.0 real-deal-dagen.kim.nl/*banner*
+=======================================
+      # andc.tv
+0.0.0.0 andc.tv/*ad*
+0.0.0.0 andc.tv/*advertisement*
+0.0.0.0 andc.tv/*banner*
+0.0.0.0 andc.tv/*track*
+0.0.0.0 andc.tv/*sponsored*
+0.0.0.0 andc.tv/body-en-mind-sanex/*ad*
+0.0.0.0 andc.tv/body-en-mind-sanex/*advertisement*
+0.0.0.0 andc.tv/body-en-mind-sanex/*pagead*
+0.0.0.0 andc.tv/body-en-mind-sanex/*track*
+0.0.0.0 andc.tv/body-en-mind-sanex/*banner*
