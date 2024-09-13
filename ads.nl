@@ -420,3 +420,10 @@
 0.0.0.0 ticketmaster.de/*banner*
 0.0.0.0 ticketmaster.de/*track*
 0.0.0.0 ticketmaster.de/*promo*
+=======================================
+      # campaigns.adimo.co
+0.0.0.0 campaigns.adimo.co/*ad*
+0.0.0.0 campaigns.adimo.co/*advertisement*
+0.0.0.0 campaigns.adimo.co/*banner*
+0.0.0.0 campaigns.adimo.co/*track*
+0.0.0.0 campaigns.adimo.co/*promo*
