@@ -275,31 +275,6 @@
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
 
-# encrypted-tbn0.gstatic.com
-0.0.0.0 encrypted-tbn0.gstatic.com/*
-0.0.0.0 encrypted-tbn0.gstatic.com/*ad*
-0.0.0.0 encrypted-tbn0.gstatic.com/*track*
-===========================================
-0.0.0.0 encrypted-tbn1.gstatic.com/*
-0.0.0.0 encrypted-tbn1.gstatic.com/*ad*
-0.0.0.0 encrypted-tbn1.gstatic.com/*track*
-===========================================
-0.0.0.0 encrypted-tbn2.gstatic.com/*
-0.0.0.0 encrypted-tbn2.gstatic.com/*ad*
-0.0.0.0 encrypted-tbn2.gstatic.com/*track*
-===========================================
-0.0.0.0 encrypted-tbn3.gstatic.com/*
-0.0.0.0 encrypted-tbn3.gstatic.com/*ad*
-0.0.0.0 encrypted-tbn3.gstatic.com/*track*
-===========================================
-0.0.0.0 encrypted-tbn4.gstatic.com/*
-0.0.0.0 encrypted-tbn4.gstatic.com/*ad*
-0.0.0.0 encrypted-tbn4.gstatic.com/*track*
-===========================================
-0.0.0.0 encrypted-tbn5.gstatic.com/*
-0.0.0.0 encrypted-tbn5.gstatic.com/*ad*
-0.0.0.0 encrypted-tbn5.gstatic.com/*track*
-
 # play.google.com
 0.0.0.0 play.google.com/*ad*
 0.0.0.0 play.google.com/*advertisement*
