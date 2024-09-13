@@ -406,3 +406,17 @@
 0.0.0.0 prescan.nl/*banner*
 0.0.0.0 prescan.nl/*track*
 0.0.0.0 prescan.nl/*promo*
+=======================================
+      # odido.nl
+0.0.0.0 odido.nl/*ad*
+0.0.0.0 odido.nl/*advertisement*
+0.0.0.0 odido.nl/*banner*
+0.0.0.0 odido.nl/*track*
+0.0.0.0 odido.nl/*promo*
+=======================================
+      # ticketmaster.de
+0.0.0.0 ticketmaster.de/*ad*
+0.0.0.0 ticketmaster.de/*advertisement*
+0.0.0.0 ticketmaster.de/*banner*
+0.0.0.0 ticketmaster.de/*track*
+0.0.0.0 ticketmaster.de/*promo*
