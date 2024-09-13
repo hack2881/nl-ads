@@ -389,3 +389,17 @@
 0.0.0.0 inshared.nl/*pagead*
 0.0.0.0 inshared.nl/*track*
 0.0.0.0 inshared.nl/*googlevideo.com*
+========================================
+      # hellofresh.nl
+0.0.0.0 hellofresh.nl/*ad*
+0.0.0.0 hellofresh.nl/*advertisement*
+0.0.0.0 hellofresh.nl/*pagead*
+0.0.0.0 hellofresh.nl/*track*
+0.0.0.0 hellofresh.nl/*banner*
+========================================
+      # real-deal-dagen.kim.nl
+0.0.0.0 real-deal-dagen.kim.nl/*ad*
+0.0.0.0 real-deal-dagen.kim.nl/*advertisement*
+0.0.0.0 real-deal-dagen.kim.nl/*pagead*
+0.0.0.0 real-deal-dagen.kim.nl/*track*
+0.0.0.0 real-deal-dagen.kim.nl/*banner*
