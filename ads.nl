@@ -337,6 +337,9 @@
 127.0.0.1 nl.shein.com/ads
 127.0.0.1 nl.shein.com/track
 127.0.0.1 nl.shein.com/marketing
+127.0.0.1 m.shein.com/ads
+127.0.0.1 m.shein.com/track
+127.0.0.1 m.shein.com/marketing
 127.0.0.1 shein.com/ads
 127.0.0.1 shein.com/track
 127.0.0.1 shein.com/marketing
