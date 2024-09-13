@@ -334,15 +334,15 @@
 127.0.0.1 temu.com/nl/marketing
 
 # shein.com
-0.0.0.0 nl.shein.com/ads
-0.0.0.0 nl.shein.com/track
-0.0.0.0 nl.shein.com/marketing
-0.0.0.0 shein.com/ads
-0.0.0.0 shein.com/track
-0.0.0.0 shein.com/marketing
-0.0.0.0 app.shein.com/ads
-0.0.0.0 app.shein.com/track
-0.0.0.0 app.shein.com/marketing
+127.0.0.1 nl.shein.com/ads
+127.0.0.1 nl.shein.com/track
+127.0.0.1 nl.shein.com/marketing
+127.0.0.1 shein.com/ads
+127.0.0.1 shein.com/track
+127.0.0.1 shein.com/marketing
+127.0.0.1 app.shein.com/ads
+127.0.0.1 app.shein.com/track
+127.0.0.1 app.shein.com/marketing
 
 # youtube dutch mix ads
       # kevintimmerdaytrayding.nl 
