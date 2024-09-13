@@ -322,30 +322,30 @@
 0.0.0.0 r5---*.googlevideo.com
 
 # temu.com
-127.0.0.1 m.temu.com/ads
-127.0.0.1 m.temu.com/track
-127.0.0.1 m.temu.com/pagead
-127.0.0.1 m.temu.com/marketing
-127.0.0.1 temu.com/api/ads
-127.0.0.1 temu.com/api/track
-127.0.0.1 temu.com/api/marketing
-127.0.0.1 temu.com/nl/ads
-127.0.0.1 temu.com/nl/track
-127.0.0.1 temu.com/nl/marketing
+0.0.0.0 m.temu.com/ads
+0.0.0.0 m.temu.com/track
+0.0.0.0 m.temu.com/pagead
+0.0.0.0 m.temu.com/marketing
+0.0.0.0 temu.com/api/ads
+0.0.0.0 temu.com/api/track
+0.0.0.0 temu.com/api/marketing
+0.0.0.0 temu.com/nl/ads
+0.0.0.0 temu.com/nl/track
+0.0.0.0 temu.com/nl/marketing
 
 # shein.com
-127.0.0.1 nl.shein.com/ads
-127.0.0.1 nl.shein.com/track
-127.0.0.1 nl.shein.com/marketing
-127.0.0.1 m.shein.com/ads
-127.0.0.1 m.shein.com/track
-127.0.0.1 m.shein.com/marketing
-127.0.0.1 shein.com/ads
-127.0.0.1 shein.com/track
-127.0.0.1 shein.com/marketing
-127.0.0.1 app.shein.com/ads
-127.0.0.1 app.shein.com/track
-127.0.0.1 app.shein.com/marketing
+0.0.0.0 nl.shein.com/ads
+0.0.0.0 nl.shein.com/track
+0.0.0.0 nl.shein.com/marketing
+0.0.0.0 m.shein.com/ads
+0.0.0.0 m.shein.com/track
+0.0.0.0 m.shein.com/marketing
+0.0.0.0 shein.com/ads
+0.0.0.0 shein.com/track
+0.0.0.0 shein.com/marketing
+0.0.0.0 app.shein.com/ads
+0.0.0.0 app.shein.com/track
+0.0.0.0 app.shein.com/marketing
 
 # youtube dutch mix ads
       # kevintimmerdaytrayding.nl 
@@ -357,17 +357,17 @@
 0.0.0.0 mykreativemind.com/track/
 =================================
       # lu.nl
-127.0.0.1 lu.nl/pagead/
-127.0.0.1 lu.nl/ads/
-127.0.0.1 lu.nl/track/
+0.0.0.0 lu.nl/pagead/
+0.0.0.0 lu.nl/ads/
+0.0.0.0 lu.nl/track/
 =================================
       # trekpleister.nl
-127.0.0.1 www.trekpleister.nl/pagead/
-127.0.0.1 www.trekpleister.nl/ads/
-127.0.0.1 www.trekpleister.nl/track/
-127.0.0.1 www.trekpleister.nl/blijmakers/pagead/
-127.0.0.1 www.trekpleister.nl/blijmakers/ads/
-127.0.0.1 www.trekpleister.nl/blijmakers/track/
+0.0.0.0 www.trekpleister.nl/pagead/
+0.0.0.0 www.trekpleister.nl/ads/
+0.0.0.0 www.trekpleister.nl/track/
+0.0.0.0 www.trekpleister.nl/blijmakers/pagead/
+0.0.0.0 www.trekpleister.nl/blijmakers/ads/
+0.0.0.0 www.trekpleister.nl/blijmakers/track/
 =============================================
       # bol.com
 0.0.0.0 bol.com/pagead/
