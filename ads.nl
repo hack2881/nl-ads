@@ -399,3 +399,10 @@
 0.0.0.0 mind-en-body.nl/*banner*
 0.0.0.0 mind-en-body.nl/*track*
 0.0.0.0 mind-en-body.nl/*promo*
+=======================================
+      # prescan.nl
+0.0.0.0 prescan.nl/*ad*
+0.0.0.0 prescan.nl/*advertisement*
+0.0.0.0 prescan.nl/*banner*
+0.0.0.0 prescan.nl/*track*
+0.0.0.0 prescan.nl/*promo*
