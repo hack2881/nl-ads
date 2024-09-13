@@ -392,8 +392,10 @@
 0.0.0.0 andc.tv/*banner*
 0.0.0.0 andc.tv/*track*
 0.0.0.0 andc.tv/*sponsored*
-0.0.0.0 andc.tv/body-en-mind-sanex/*ad*
-0.0.0.0 andc.tv/body-en-mind-sanex/*advertisement*
-0.0.0.0 andc.tv/body-en-mind-sanex/*pagead*
-0.0.0.0 andc.tv/body-en-mind-sanex/*track*
-0.0.0.0 andc.tv/body-en-mind-sanex/*banner*
+=======================================
+      # mind-en-body.nl
+0.0.0.0 mind-en-body.nl/*ad*
+0.0.0.0 mind-en-body.nl/*advertisement*
+0.0.0.0 mind-en-body.nl/*banner*
+0.0.0.0 mind-en-body.nl/*track*
+0.0.0.0 mind-en-body.nl/*promo*
