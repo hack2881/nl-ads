@@ -385,6 +385,20 @@
 0.0.0.0 i.ytimg.com/*advertisement*
 0.0.0.0 i.ytimg.com/*promo*
 
+# 2mdn.net
+0.0.0.0 s0.2mdn.net/ads
+0.0.0.0 s0.2mdn.net
+0.0.0.0 affiliate.2mdn.net
+0.0.0.0 c.2mdn.net
+0.0.0.0 gcdn.2mdn.net
+0.0.0.0 m.2mdn.net
+0.0.0.0 m1.2mdn.net
+0.0.0.0 rmcdn.2mdn.net
+0.0.0.0 s0qa.2mdn.net
+0.0.0.0 s1.2mdn.net
+0.0.0.0 s2.2mdn.net
+0.0.0.0 static.2mdn.net
+
 # temu.com
 0.0.0.0 m.temu.com/ads
 0.0.0.0 m.temu.com/track
