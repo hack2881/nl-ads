@@ -314,6 +314,9 @@
 0.0.0.0 temu.com/nl/ads
 0.0.0.0 temu.com/nl/track
 0.0.0.0 temu.com/nl/marketing
+0.0.0.0 static.kwcdn.com
+0.0.0.0 static-2.kwcdn.com
+0.0.0.0 img.kwcdn.com
 
 # shein.com
 0.0.0.0 nl.shein.com/ads
