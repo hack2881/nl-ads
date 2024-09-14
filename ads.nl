@@ -8,6 +8,29 @@
 0.0.0.0 adssettings.google.com/*ad*
 0.0.0.0 adssettings.google.com/*track*
 
+# googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 buttons.googlesyndication.com
+0.0.0.0 c.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead46.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tpcnc.googlesyndication.com
+0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 googlesyndication.co
+0.0.0.0 googlesyndication.it
+0.0.0.0 googlesyndication.net
+0.0.0.0 googlesyndication.org
+0.0.0.0 googlesyndication.tk
+0.0.0.0 googlesyndication.ws
+0.0.0.0 googlesyndication.doctorout.com
+0.0.0.0 googlesyndication.comtrk.vidible.tv
+0.0.0.0 googlesyndication.com.education2020.us
+0.0.0.0 googelsyndication.com
+0.0.0.0 googlseyndication.com
+0.0.0.0 gynecologistnoida.com
+
 # googletagmanager.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
