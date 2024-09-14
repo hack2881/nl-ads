@@ -303,6 +303,13 @@
 0.0.0.0 r4---*.googlevideo.com
 0.0.0.0 r5---*.googlevideo.com
 
+# gstatic.com
+0.0.0.0 gstatic.com/*ad*
+0.0.0.0 gstatic.com/*advertisement*
+0.0.0.0 gstatic.com/*banner*
+0.0.0.0 gstatic.com/*track*
+0.0.0.0 gstatic.com/*promo*
+
 # temu.com
 0.0.0.0 m.temu.com/ads
 0.0.0.0 m.temu.com/track
