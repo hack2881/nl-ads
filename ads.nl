@@ -317,6 +317,8 @@
 0.0.0.0 static.kwcdn.com
 0.0.0.0 static-2.kwcdn.com
 0.0.0.0 img.kwcdn.com
+0.0.0.0 eu.pftk.temu.com
+0.0.0.0 eu.thtk.temu.com
 
 # shein.com
 0.0.0.0 nl.shein.com/ads
