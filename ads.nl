@@ -1,27 +1,17 @@
 # Google Ads and Tracking Blocklist
 0.0.0.0 googleadservices.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 partner.googleadservices.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 www.googletagservices.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 analytics.google.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 tagmanager.google.com
 0.0.0.0 ads.google.com
-0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 video-stats.video.google.com
 0.0.0.0 adservice.google.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 static.doubleclick.net
 0.0.0.0 adssettings.google.com/*
 0.0.0.0 adssettings.google.com/*ad*
 0.0.0.0 adssettings.google.com/*track*
+
+# googletagmanager.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 tagmanager.google.com
 
 # Analytics Domains Blocklist
 0.0.0.0 google-analytics.com
@@ -69,13 +59,6 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 s.youtube.com/api/stats/ads
 0.0.0.0 s.youtube.com/pagead/ads
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 s0.2mdn.net
-0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 r1---sn-vgqsrnez.googlevideo.com
 0.0.0.0 r2---sn-vgqsrnez.googlevideo.com
@@ -249,6 +232,7 @@
 0.0.0.0 aax-us-west.amazon-adsystem.com
 0.0.0.0 images-na.ssl-images-amazon.com
 0.0.0.0 tag.amazon.com
+0.0.0.0 ts.amazon-adsystem.com
 0.0.0.0 pixel.amazon.com
 0.0.0.0 data.amazon.com
 0.0.0.0 analytics.amazon.com
@@ -262,7 +246,7 @@
 0.0.0.0 aws.amazon.com
 0.0.0.0 s3.amazonaws.com
 
-# ad.doubleclick.net
+# doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
@@ -271,9 +255,60 @@
 0.0.0.0 activity.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 betamediavisor.doubleclick.net
+0.0.0.0 cvpn.doubleclick.net
+0.0.0.0 dfpapi.doubleclick.net
+0.0.0.0 dsm.doubleclick.net
+0.0.0.0 motifbeta.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 emea.doubleclick.com
+0.0.0.0 g.doubleclick.com
+0.0.0.0 m.doubleclick.com
+0.0.0.0 studio.doubleclick.com
+0.0.0.0 www.doubleclick.com
+0.0.0.0 www2.doubleclick.com
+0.0.0.0 www3.doubleclick.com
+0.0.0.0 doubleclick.com
+0.0.0.0 doubleclick.net
+0.0.0.0 doubleclick.de
+0.0.0.0 doubleclick.fr
+0.0.0.0 doubleclick.jp
+0.0.0.0 doubleclick.nl
+0.0.0.0 doubleclick.tw
+0.0.0.0 doubleclick.co.uk
+0.0.0.0 doubleclick.ch
+0.0.0.0 doubleclick.es
+0.0.0.0 doubleclick.ie
+0.0.0.0 doubleclick.kr
+0.0.0.0 doubleclick.mw
+0.0.0.0 doubleclick.pro
+0.0.0.0 doubleclick.tech
+0.0.0.0 doubleclick.xyz
+0.0.0.0 doubleclick.net.my
+0.0.0.0 doulbeclick.org
+0.0.0.0 doubleclick.eu
+0.0.0.0 doubleclick.in
+0.0.0.0 doubleclick.lt
+0.0.0.0 doubleclick.my
+0.0.0.0 clickdouble.site
+0.0.0.0 doubleclick.agency, 
+0.0.0.0 doubleclick.am, 
+0.0.0.0 doubleclick.at, 
+0.0.0.0 doubleclick.be, 
+0.0.0.0 doubleclick.biz, 
+0.0.0.0 doubleclick.bz, 
+0.0.0.0 doubleclick.cc, 
+0.0.0.0 doubleclick.ch, 
+0.0.0.0 doubleclick.cn 
+0.0.0.0 doubleclick.co
+0.0.0.0 doubleclick.company
+0.0.0.0 doubleclick.cz
 
 # play.google.com
 0.0.0.0 play.google.com/*ad*
@@ -309,6 +344,11 @@
 0.0.0.0 gstatic.com/*banner*
 0.0.0.0 gstatic.com/*track*
 0.0.0.0 gstatic.com/*promo*
+
+# i.ytimg.com
+0.0.0.0 i.ytimg.com/*ad*
+0.0.0.0 i.ytimg.com/*advertisement*
+0.0.0.0 i.ytimg.com/*promo*
 
 # temu.com
 0.0.0.0 m.temu.com/ads
