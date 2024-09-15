@@ -118,6 +118,16 @@
 0.0.0.0 www.youtube.com/api/stats/ads
 0.0.0.0 www.youtube.com/pagead/
 0.0.0.0 www.youtube.com/yts/jsbin/player-ads
+0.0.0.0 m.youtube.co
+0.0.0.0 m.youtube.es
+0.0.0.0 m.youtube.me
+0.0.0.0 m.youtube.se
+0.0.0.0 m.au.youtube.com
+0.0.0.0 m.ie.youtube.com
+0.0.0.0 m.nl.youtube.com
+0.0.0.0 m.youtube.com.hk
+0.0.0.0 m.youtube.com.ng
+0.0.0.0 m.youtube.co.uk
 
 # Facebook Ads and Tracking Blocklist
 0.0.0.0 facebook.com
