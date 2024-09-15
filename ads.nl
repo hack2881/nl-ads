@@ -3,6 +3,9 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 ads.google.com
+0.0.0.0 ads1.google.com
+0.0.0.0 www.ads.google.com
+0.0.0.0 alt953.www.ads.google.com
 0.0.0.0 googleadservices.at
 0.0.0.0 googleadservices.cn
 0.0.0.0 googleadservices.co
