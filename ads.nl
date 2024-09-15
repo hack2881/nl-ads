@@ -22,6 +22,7 @@
 0.0.0.0 adssettings.google.com/*
 0.0.0.0 adssettings.google.com/*ad*
 0.0.0.0 adssettings.google.com/*track*
+0.0.0.0 googleadservices.com/pagead
 
 # googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
