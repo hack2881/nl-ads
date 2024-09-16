@@ -1,1 +1,24 @@
-
+# doubleclick.net #
+====================
+||ad.doubleclick.net^
+||bid.g.doubleclick.net^
+||click.googleadservices.com^
+||googleads.g.doubleclick.net^
+||pubads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||stats.g.doubleclick.net^
+||pixel.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||adservice.google.com^
+||pagead.l.doubleclick.net^
+||www.googletagservices.com^
+||cm.g.doubleclick.net^
+||www.googleadservices.com^
+||partner.googleadservices.com^
+||ads.google.com^
+||adwords.google.com^
+||tpc.googlesyndication.com^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||ads.doubleclick.net^
+======================
