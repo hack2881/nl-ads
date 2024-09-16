@@ -79,6 +79,8 @@ youtube.com
 youtu.be
 m.youtube.com
 www.youtube.com
+nl.youtube.com
+m.nl.youtube.com
 
 # Advertentie-domeinen gerelateerd aan YouTube
 googleads.g.doubleclick.net
