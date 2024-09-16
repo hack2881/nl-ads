@@ -296,6 +296,9 @@
 0.0.0.0 s3.amazonaws.com
 
 # doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 n4403ad.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
@@ -317,7 +320,6 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 emea.doubleclick.com
-0.0.0.0 g.doubleclick.com
 0.0.0.0 m.doubleclick.com
 0.0.0.0 studio.doubleclick.com
 0.0.0.0 www.doubleclick.com
