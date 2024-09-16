@@ -1,5 +1,4 @@
-# doubleclick.net #
-====================
+# [doubleclick.net]
 ||ad.doubleclick.net^
 ||bid.g.doubleclick.net^
 ||click.googleadservices.com^
@@ -21,4 +20,3 @@
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||ads.doubleclick.net^
-======================
