@@ -7,6 +7,10 @@ adservices.google.com
 video-stats.l.google.com
 s.youtube.com
 r.youtube.com
+m.youtube.com
+app.youtube.com
+app.s.youtube.com
+app.shein.com
 
 # Algemene advertentiedomeinen
 ads.yieldmanager.com
