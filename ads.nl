@@ -20,3 +20,9 @@
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||ads.doubleclick.net^
+||ad-emea.doubleclick.net^
+||betamediavisor.doubleclick.net^
+||cvpn.doubleclick.net^
+||dfpapi.doubleclick.net^
+||dsm.doubleclick.net^
+||motifbeta.doubleclick.net^
