@@ -94,6 +94,7 @@
 ||www.youtube-nocookie.com^
 ||manifest.googlevideo.com^
 ||r1---sn-*.googlevideo.com^
+||rr1---sn-*.googlevideo.com^
 ||redirector.googlevideo.com^
 ||stats.youtube.com^
 ||clients1.google.com^
