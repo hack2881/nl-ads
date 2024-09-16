@@ -73,6 +73,8 @@
 ||tracker.amazonaws.com^
 ||u5.amazonaws.com^
 ||x1.amazonaws.com^
+||ts.amazon-adsystem.com^
+||m.media-amazon.com^
 
 # [ads.youtube.com]
 ||googleads.g.doubleclick.net^
