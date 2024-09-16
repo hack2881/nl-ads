@@ -26,6 +26,16 @@
 ||dfpapi.doubleclick.net^
 ||dsm.doubleclick.net^
 ||motifbeta.doubleclick.net^
+||partnerad.l.doubleclick.net^
+||advertisers.l.doubleclick.net^
+||dart.l.doubleclick.net^
+||dart-ad.l.doubleclick.net^
+||dart-apac.l.doubleclick.net^
+||mobile-displayads.l.doubleclick.net^
+||pagead46.l.doubleclick.net^
+||partnerad.l.doubleclick.net^
+||rich-media-dynamic-ads-api.l.doubleclick.net^
+||stats.l.doubleclick.net^
 
 # [amazonaws.com]
 ||ads.amazonaws.com^
