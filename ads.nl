@@ -127,3 +127,14 @@
 ||googleadservices.com.home.net^
 ||googleadservices.com.huawei.net^
 ||googleadservices.com.jonz.shaw^
+
+# [ads.temu.com]
+||ads.temu.com^
+||gw-c-us.temu.com^
+||m-temu-com.trafficmanager.net^
+||temu.com^
+||tracking.temu.com^
+||analytics.temu.com^
+||promo.temu.com^
+||banner.temu.com^
+||ad.temu.com^
