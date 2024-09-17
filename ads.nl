@@ -97,6 +97,8 @@
 ||rr1---sn-*.googlevideo.com^
 ||r1---sn-[a-z0-9]+\.googlevideo\.com^
 ||rr1---sn-[a-z0-9]+\.googlevideo\.com^
+||r1---sn-[a-z0-9]+\.gvt1\.com^
+||rr1---sn-[a-z0-9]+\.gvt1\.com^
 ||redirector.googlevideo.com^
 ||stats.youtube.com^
 ||clients1.google.com^
