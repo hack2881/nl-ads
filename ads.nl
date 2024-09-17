@@ -111,6 +111,12 @@
 ||pagead-googlehosted.l.googleusercontent.com^
 
 # [googleadservices.com]
+||ads.google.com^
+||adsense.google.com^
+||adservice.google.com^
+||partner.googleadservices.com^
+||googleadservices.com^
+||adservice.google.com^
 ||googleadservices.cn^
 ||googleadservices.co^
 ||googleadservices.net^
