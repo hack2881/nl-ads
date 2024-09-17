@@ -38,6 +38,10 @@
 ||stats.l.doubleclick.net^
 
 # [mail.google.com]
+||ads.mail.google.com^
+||mail.google.com/ads^
+||mail.google.com/ads^
+||mail.google.com/static/ads^
 ||mail.google.com^$third-party
 ||pagead.l.doubleclick.net^
 ||tpc.googlesyndication.com^
