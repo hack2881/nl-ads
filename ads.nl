@@ -37,6 +37,18 @@
 ||rich-media-dynamic-ads-api.l.doubleclick.net^
 ||stats.l.doubleclick.net^
 
+# [mail.google.com]
+||mail.google.com^$third-party
+||pagead.l.doubleclick.net^
+||tpc.googlesyndication.com^
+||ad.doubleclick.net^
+||googleads.g.doubleclick.net^
+||ads.google.com^
+||adsense.google.com^
+||pagead-googlehosted.l.googleusercontent.com^
+||partner.googleadservices.com^
+||cm.g.doubleclick.net^
+
 # [amazonaws.com]
 ||ads.amazonaws.com^
 ||ad-id-useast1.amazonaws.com^
