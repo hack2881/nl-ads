@@ -169,3 +169,11 @@
 ||an.facebook.com^
 ||adpreferences.facebook.com^
 ||atdmt.com^
+
+# [play.google.com]
+||play.google.com/ads^
+||play.google.com/ads.*
+||play.google.com/static/ads^
+||ads.play.google.com^
+||googleads.g.doubleclick.net^
+||tpc.googlesyndication.com^
