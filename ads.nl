@@ -109,3 +109,15 @@
 ||static.doubleclick.net^
 ||ads.google.com^
 ||pagead-googlehosted.l.googleusercontent.com^
+
+# [googleadservices.com]
+||googleadservices.cn^
+||googleadservices.co^
+||googleadservices.net^
+||googleadservices.org^
+||googleadservices.tk^
+||googleadservices.com.com^
+||googleadservices.com.apple.com^
+||googleadservices.com.home.net^
+||googleadservices.com.huawei.net^
+||googleadservices.com.jonz.shaw^
