@@ -138,7 +138,7 @@
 ||ads.temu.com^
 ||gw-c-us.temu.com^
 ||m-temu-com.trafficmanager.net^
-||temu.com^
+||app.temu.com^
 ||tracking.temu.com^
 ||analytics.temu.com^
 ||promo.temu.com^
