@@ -128,6 +128,7 @@
 ||js.sentry-cdn.com^
 ||s1.sentry-cdn.com^
 ||www.sentry-cdn.com^
+||trends-nyc.com^
 
 # [freshmarketer.com]
 ||freshmarketer.com^
