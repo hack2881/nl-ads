@@ -51,6 +51,16 @@
 ||adserving.media.net^
 ||static.media.net^
 
+# [adcolony.com]
+||ads30.adcolony.com^
+||adc3-launch.adcolony.com^
+||events3alt.adcolony.com^
+||wd.adcolony.com^
+||adcolony.com^
+||ads.adcolony.com^
+||cdn.adcolony.com^
+||d.adcolony.com^
+
 # [amazonaws.com]
 ||ads.amazonaws.com^
 ||ad-id-useast1.amazonaws.com^
