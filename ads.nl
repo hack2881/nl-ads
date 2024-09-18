@@ -125,6 +125,9 @@
 ||sentry-cdn.com^
 ||ads.browser.sentry-cdn.com^
 ||browser.sentry-cdn.com^
+||js.sentry-cdn.com^
+||s1.sentry-cdn.com^
+||www.sentry-cdn.com^
 
 # [freshmarketer.com]
 ||freshmarketer.com^
