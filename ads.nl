@@ -44,7 +44,7 @@
 ||mail.google.com/static/ads^
 ||mail.google.com^$third-party
 
-# [nedia.net]
+# [media.net]
 ||media.net^
 ||ads.media.net^
 ||contextual.media.net^
