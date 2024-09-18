@@ -61,6 +61,8 @@
 ||www.google-analytics.com^
 ||ssl.google-analytics.com^
 ||click.googleanalytics.com^
+||alpha.analytics.com^
+||terra.analytics.com^
 
 # [adcolony.com]
 ||ads30.adcolony.com^
