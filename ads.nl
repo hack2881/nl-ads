@@ -75,7 +75,6 @@
 ||d.adcolony.com^
 
 # [mouseflow.com]
-||ads.mouseflow.com^
 ||mouseflow.com^
 ||cdn.mouseflow.com^
 ||track.mouseflow.com^
