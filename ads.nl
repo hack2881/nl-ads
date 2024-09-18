@@ -1,22 +1,13 @@
 # [doubleclick.net]
 ||ad.doubleclick.net^
 ||bid.g.doubleclick.net^
-||click.googleadservices.com^
 ||googleads.g.doubleclick.net^
 ||pubads.g.doubleclick.net^
-||pagead2.googlesyndication.com^
 ||stats.g.doubleclick.net^
 ||pixel.doubleclick.net^
 ||securepubads.g.doubleclick.net^
-||adservice.google.com^
 ||pagead.l.doubleclick.net^
-||www.googletagservices.com^
 ||cm.g.doubleclick.net^
-||www.googleadservices.com^
-||partner.googleadservices.com^
-||ads.google.com^
-||adwords.google.com^
-||tpc.googlesyndication.com^
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||ads.doubleclick.net^
@@ -37,6 +28,17 @@
 ||rich-media-dynamic-ads-api.l.doubleclick.net^
 ||stats.l.doubleclick.net^
 
+# [googlesyndication.com]
+||googlesyndication.com^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+||adservice.google.com^
+||googleadservices.com^
+||googleads.g.doubleclick.net^
+||g.doubleclick.net^
+||afs.googlesyndication.com^
+||pagead2.googlesyndication.com^
+
 # [mail.google.com]
 ||ads.mail.google.com^
 ||mail-ads.google.com^
@@ -44,15 +46,6 @@
 ||mail.google.com/ads^
 ||mail.google.com/static/ads^
 ||mail.google.com^$third-party
-||pagead.l.doubleclick.net^
-||tpc.googlesyndication.com^
-||ad.doubleclick.net^
-||googleads.g.doubleclick.net^
-||ads.google.com^
-||adsense.google.com^
-||pagead-googlehosted.l.googleusercontent.com^
-||partner.googleadservices.com^
-||cm.g.doubleclick.net^
 
 # [amazonaws.com]
 ||ads.amazonaws.com^
@@ -94,11 +87,6 @@
 ||m.media-amazon.com^
 
 # [ads.youtube.com]
-||googleads.g.doubleclick.net^
-||pubads.g.doubleclick.net^
-||ad.doubleclick.net^
-||tpc.googlesyndication.com^
-||pagead.l.doubleclick.net^
 ||video-stats.video.google.com^
 ||s.youtube.com^
 ||s0.2mdn.net^
@@ -123,8 +111,6 @@
 ||clients1.google.com^
 ||clients3.google.com^
 ||clients4.google.com^
-||static.doubleclick.net^
-||ads.google.com^
 ||pagead-googlehosted.l.googleusercontent.com^
 
 # [googleadservices.com]
@@ -166,8 +152,6 @@
 ||play.google.com/ads.*
 ||play.google.com/static/ads^
 ||ads.play.google.com^
-||googleads.g.doubleclick.net^
-||tpc.googlesyndication.com^
 
 # [Hacking and Malicious]
 ||hacker.com^
