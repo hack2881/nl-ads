@@ -39,6 +39,7 @@
 
 # [mail.google.com]
 ||ads.mail.google.com^
+||mail-ads.google.com^
 ||mail.google.com/ads^
 ||mail.google.com/ads^
 ||mail.google.com/static/ads^
