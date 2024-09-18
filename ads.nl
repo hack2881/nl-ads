@@ -51,6 +51,17 @@
 ||adserving.media.net^
 ||static.media.net^
 
+# [analytics.com]
+||analytics.com^
+||ads.analytics.com^
+||track.analytics.com^
+||cdn.analytics.com^
+||pixel.analytics.com^
+||google-analytics.com^
+||www.google-analytics.com^
+||ssl.google-analytics.com^
+||click.googleanalytics.com^
+
 # [adcolony.com]
 ||ads30.adcolony.com^
 ||adc3-launch.adcolony.com^
