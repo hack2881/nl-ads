@@ -27,15 +27,12 @@
 ||partnerad.l.doubleclick.net^
 ||rich-media-dynamic-ads-api.l.doubleclick.net^
 ||stats.l.doubleclick.net^
+||g.doubleclick.net^
 
 # [googlesyndication.com]
 ||googlesyndication.com^
 ||pagead2.googlesyndication.com^
 ||tpc.googlesyndication.com^
-||adservice.google.com^
-||googleadservices.com^
-||googleads.g.doubleclick.net^
-||g.doubleclick.net^
 ||afs.googlesyndication.com^
 ||pagead2.googlesyndication.com^
 
@@ -92,7 +89,7 @@
 ||s0.2mdn.net^
 ||yt3.ggpht.com^
 ||ads.youtube.com^
-||www.googleadservices.com^
+
 ||android.youtube.com^
 ||m.youtube.com^
 ||youtubei.googleapis.com^
@@ -117,9 +114,9 @@
 ||ads.google.com^
 ||adsense.google.com^
 ||adservice.google.com^
+||www.googleadservices.com^
 ||partner.googleadservices.com^
 ||googleadservices.com^
-||adservice.google.com^
 ||googleadservices.cn^
 ||googleadservices.co^
 ||googleadservices.net^
