@@ -44,6 +44,13 @@
 ||mail.google.com/static/ads^
 ||mail.google.com^$third-party
 
+# [nedia.net]
+||media.net^
+||ads.media.net^
+||contextual.media.net^
+||adserving.media.net^
+||static.media.net^
+
 # [amazonaws.com]
 ||ads.amazonaws.com^
 ||ad-id-useast1.amazonaws.com^
@@ -89,7 +96,6 @@
 ||s0.2mdn.net^
 ||yt3.ggpht.com^
 ||ads.youtube.com^
-
 ||android.youtube.com^
 ||m.youtube.com^
 ||youtubei.googleapis.com^
