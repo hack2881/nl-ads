@@ -157,19 +157,9 @@
 ||ad.temu.com^
 
 # [ads.facebook.com]
-||facebook.com/ads^
-||ads.facebook.com^
-||connect.facebook.net/en_US/fbadnw.js^
-||connect.facebook.net/signals/config^
-||creative.facebook.com^
-||business.facebook.com^
-||graph.facebook.com^
-||pixel.facebook.com^
-||marketing-api.facebook.com^
 ||tr.facebook.com^
+||pixel.facebook.com^
 ||an.facebook.com^
-||adpreferences.facebook.com^
-||atdmt.com^
 
 # [play.google.com]
 ||play.google.com/ads^
