@@ -86,6 +86,35 @@
 ||o2.mouseflow.com^
 ||ws.mouseflow.com^
 
+# [luckyorange.com]
+||luckyorange.com^
+||scripts.luckyorange.com^
+||api.luckyorange.com^
+||analytics.luckyorange.com^
+||ads.luckyorange.com^
+||cdn.luckyorange.com^
+||tracking.luckyorange.com^
+||realtime.luckyorange.com^
+||w1.luckyorange.com^
+||luckyorange.net^
+||upload.luckyorange.net^
+||cs.luckyorange.net^
+||settings.luckyorange.net^
+||ads.luckyorange.net^
+||cdn.luckyorange.net^
+||scripts.luckyorange.net^
+||api.luckyorange.net^
+
+# [bugsnag.com]
+||bugsnag.com^
+||ads.bugsnag.com^
+||cdn.bugsnag.com^
+||track.bugsnag.com^
+||notify.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||sessions.bugsnag.com^
+
 # [freshmarketer.com]
 ||freshmarketer.com^
 ||adserver.unityads.unity3d.com^
