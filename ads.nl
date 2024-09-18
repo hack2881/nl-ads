@@ -178,3 +178,18 @@
 ||ads.play.google.com^
 ||googleads.g.doubleclick.net^
 ||tpc.googlesyndication.com^
+
+# [Hacking and Malicious]
+||hacker.com^
+||malicious.com^
+||phishing.com^
+||malware.com^
+||trojan.com^
+||spyware.com^
+||rootkit.com^
+||exploit.com^
+||darkweb.com^
+||cracked.com^
+||exploit-db.com^
+||cve.mitre.org^
+||vulnsec.com^
