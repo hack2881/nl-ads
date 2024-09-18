@@ -74,6 +74,17 @@
 ||cdn.adcolony.com^
 ||d.adcolony.com^
 
+# [mouseflow.com]
+||ads.mouseflow.com^
+||mouseflow.com^
+||cdn.mouseflow.com^
+||track.mouseflow.com^
+||cdn-test.mouseflow.com
+||tools.mouseflow.com
+||api.mouseflow.com^
+||gtm.mouseflow.com^
+||o2.mouseflow.com^
+
 # [adm.hotjar.com]
 ||adm.hotjar.com^
 ||identify.hotjar.com^
