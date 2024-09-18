@@ -72,6 +72,23 @@
 ||cdn.adcolony.com^
 ||d.adcolony.com^
 
+# [adm.hotjar.com]
+||adm.hotjar.com^
+||identify.hotjar.com^
+||surveys.hotjar.com^
+||careers.hotjar.com^
+||www.hotjar.com^
+||js.hotjar.com^
+||static.hotjar.com^
+||insights.hotjar.com^
+||hjs-prod.hotjar.com^
+||script.hotjar.com^
+||events.hotjar.io^
+||hotjar.io^
+||hotjar.com^
+||hjs.hotjar.io^
+||hjs.hotjar.com^
+
 # [amazonaws.com]
 ||ads.amazonaws.com^
 ||ad-id-useast1.amazonaws.com^
