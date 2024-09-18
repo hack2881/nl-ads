@@ -84,6 +84,16 @@
 ||api.mouseflow.com^
 ||gtm.mouseflow.com^
 ||o2.mouseflow.com^
+||ws.mouseflow.com^
+
+# [freshmarketer.com]
+||freshmarketer.com^
+||adserver.unityads.unity3d.com^
+||ads.freshmarketer.com^
+||tracking.freshmarketer.com^
+||cdn.freshmarketer.com^
+||claritybt.freshmarketer.com^
+||fwtracks.freshmarketer.com^
 
 # [adm.hotjar.com]
 ||adm.hotjar.com^
