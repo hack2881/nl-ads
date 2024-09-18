@@ -114,6 +114,18 @@
 ||app.bugsnag.com^
 ||sessions.bugsnag.com^
 
+# [getsentry.com]
+||getsentry.com^
+||cdn.getsentry.com^
+||analytics.getsentry.com^
+||cdn.getsentry.com^
+||api.getsentry.com^
+||app.getsentry.com^
+||browser.sentry-cdn.com^
+||sentry-cdn.com^
+||ads.browser.sentry-cdn.com^
+||browser.sentry-cdn.com^
+
 # [freshmarketer.com]
 ||freshmarketer.com^
 ||adserver.unityads.unity3d.com^
