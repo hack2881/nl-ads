@@ -78,8 +78,8 @@
 ||mouseflow.com^
 ||cdn.mouseflow.com^
 ||track.mouseflow.com^
-||cdn-test.mouseflow.com
-||tools.mouseflow.com
+||cdn-test.mouseflow.com^
+||tools.mouseflow.com^
 ||api.mouseflow.com^
 ||gtm.mouseflow.com^
 ||o2.mouseflow.com^
