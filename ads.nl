@@ -36,14 +36,6 @@
 ||afs.googlesyndication.com^
 ||pagead2.googlesyndication.com^
 
-# [mail.google.com]
-||ads.mail.google.com^
-||mail-ads.google.com^
-||mail.google.com/ads^
-||mail.google.com/ads^
-||mail.google.com/static/ads^
-||mail.google.com^$third-party
-
 # [media.net]
 ||media.net^
 ||ads.media.net^
