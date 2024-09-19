@@ -42,6 +42,7 @@
 ||contextual.media.net^
 ||adserving.media.net^
 ||static.media.net^
+||adservetx.media.net^
 
 # [analytics.com]
 ||analytics.com^
@@ -221,7 +222,6 @@
 ||adservice.google.com^
 ||www.googleadservices.com^
 ||partner.googleadservices.com^
-||googleadservices.com^
 ||googleadservices.cn^
 ||googleadservices.co^
 ||googleadservices.net^
