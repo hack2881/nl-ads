@@ -194,6 +194,8 @@
 ||x1.amazonaws.com^
 ||ts.amazon-adsystem.com^
 ||m.media-amazon.com^
+||c.amazon-adsystem.com^
+||config.aps.amazon-adsystem.com^
 
 # [ads.youtube.com]
 ||video-stats.video.google.com^
