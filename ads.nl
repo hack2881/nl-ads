@@ -219,7 +219,6 @@
 
 # [googleadservices.com]
 ||ads.google.com^
-||adsense.google.com^
 ||adservice.google.com^
 ||www.googleadservices.com^
 ||partner.googleadservices.com^
