@@ -218,7 +218,6 @@
 ||pagead-googlehosted.l.googleusercontent.com^
 
 # [googleadservices.com]
-||ads.google.com^
 ||adservice.google.com^
 ||www.googleadservices.com^
 ||partner.googleadservices.com^
