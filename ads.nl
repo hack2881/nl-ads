@@ -1,4 +1,5 @@
 # [doubleclick.net]
+||doubleclick.net^
 ||ad.doubleclick.net^
 ||bid.g.doubleclick.net^
 ||googleads.g.doubleclick.net^
