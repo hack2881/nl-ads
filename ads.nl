@@ -30,6 +30,13 @@
 ||stats.l.doubleclick.net^
 ||g.doubleclick.net^
 
+# [adservice.google.com]
+||ads.google.com^
+||adservice.google.com^
+||ads1.google.com^
+||www.ads.google.com^
+||alt953.www.ads.google.com^
+
 # [googlesyndication.com]
 ||googlesyndication.com^
 ||pagead2.googlesyndication.com^
@@ -218,7 +225,6 @@
 ||pagead-googlehosted.l.googleusercontent.com^
 
 # [googleadservices.com]
-||adservice.google.com^
 ||www.googleadservices.com^
 ||partner.googleadservices.com^
 ||googleadservices.cn^
