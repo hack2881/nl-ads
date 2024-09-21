@@ -30,13 +30,6 @@
 ||stats.l.doubleclick.net^
 ||g.doubleclick.net^
 
-# [adservice.google.com]
-||ads.google.com^
-||adservice.google.com^
-||ads1.google.com^
-||www.ads.google.com^
-||alt953.www.ads.google.com^
-
 # [googlesyndication.com]
 ||googlesyndication.com^
 ||pagead2.googlesyndication.com^
@@ -274,3 +267,14 @@
 ||exploit-db.com^
 ||cve.mitre.org^
 ||vulnsec.com^
+
+# [speedtest.net]
+||cdn.static.zdbb.net^
+||gurgle.speedtest.net^
+||gurgle.zdbb.net^
+||jogger.zdbb.net^
+||rp4.liadm.com^
+||zdbb.net^
+||cdn.speedtest.net^
+||analytics.speedtest.net^
+||ads.speedtest.net^
