@@ -513,6 +513,7 @@
 ||aimg.kwcdn.com^
 ||img.kwcdn.com^
 ||dl.kwcdn.com^
+||img-1.kwcdn.com^
 
 # [ads.facebook.com]
 ||tr.facebook.com^
