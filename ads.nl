@@ -499,7 +499,6 @@
 ||googleadservices.com.jonz.shaw^
 
 # [ads.temu.com]
-||ads.temu.com^
 ||gw-c-us.temu.com^
 ||m-temu-com.trafficmanager.net^
 ||app.temu.com^
@@ -508,6 +507,12 @@
 ||promo.temu.com^
 ||banner.temu.com^
 ||ad.temu.com^
+||eu.pftk.temu.com^
+||eu.thtk.temu.com^
+||static.kwcdn.com^
+||aimg.kwcdn.com^
+||img.kwcdn.com^
+||dl.kwcdn.com^
 
 # [ads.facebook.com]
 ||tr.facebook.com^
