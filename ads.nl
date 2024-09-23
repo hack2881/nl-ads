@@ -552,6 +552,24 @@
 ||analytics.speedtest.net^
 ||ads.speedtest.net^
 
+# [adsafeprotected.com]
+||adsafeprotected.com^
+||static.adsafeprotected.com^
+||fw.adsafeprotected.com^
+||dtias.adsafeprotected.com^
+||pixel.adsafeprotected.com^
+||adsafeprotected.net^
+||adsafeprotected.org^
+||azjdt.adsafeprotected.com^
+||dt.adsafeprotected.com^
+||iepixel.adsafeprotected.com^
+||mstemp.adsafeprotected.com^
+||orfwapi.adsafeprotected.com^
+||sjedt.adsafeprotected.com^
+||staticvc.adsafeprotected.com^
+||vapixel.adsafeprotected.com^
+||vastpixel2.adsafeprotected.com^
+
 ==============youtube Dutch ads===============
 # [ads.youtube.com]
  kevintimmerdaytrading.nl
