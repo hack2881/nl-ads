@@ -551,6 +551,7 @@
 ||cdn.speedtest.net^
 ||analytics.speedtest.net^
 ||ads.speedtest.net^
+||zd.map.fastly.net^
 
 # [adsafeprotected.com]
 ||adsafeprotected.com^
