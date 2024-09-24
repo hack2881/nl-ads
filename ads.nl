@@ -587,7 +587,6 @@
 ||promo.kevintimmerdaytrading.nl^
 
 # Hacking Domain Blocklist
-||example-hacking-site.com^
 ||malicious-hacking-tools.com^
 ||blackhat-hacking-site.net^
 ||darkweb-hacking-forum.org^
