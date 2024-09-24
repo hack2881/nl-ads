@@ -585,3 +585,29 @@
 ||analytics.kevintimmerdaytrading.nl^
 ||banner.kevintimmerdaytrading.nl^
 ||promo.kevintimmerdaytrading.nl^
+
+# Hacking Domain Blocklist
+||example-hacking-site.com^
+||malicious-hacking-tools.com^
+||blackhat-hacking-site.net^
+||darkweb-hacking-forum.org^
+||illegal-hacking-resources.xyz^
+||hacktools-downloads.com^
+||exploit-marketplace.biz^
+
+# Phishing Domain Blocklist
+||phishing.army^
+||phishtank.com^
+||malwaredomainlist.com^
+||abuse.ch^
+||urlhaus.abuse.ch^
+||malwaredomains.com^
+
+# Virus Distribution Domain Blocklist
+||malwaredistribution.com^
+||virus-downloads.net^
+||trojan-hosting.com^
+||infected-file-sharing.org^
+||malware-distribution.xyz^
+||ransomware-spread.biz^
+||virusfile-hosting.ru^
