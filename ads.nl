@@ -587,6 +587,8 @@
 ||promo.kevintimmerdaytrading.nl^
 
 # Hacking Domain Blocklist
+||www.pamekasan.imigrasi.go.id^
+||mail.gdu.edu.az^
 ||malicious-hacking-tools.com^
 ||blackhat-hacking-site.net^
 ||darkweb-hacking-forum.org^
