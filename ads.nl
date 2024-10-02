@@ -5,6 +5,7 @@
 ||ad-id-useast1.amazonaws.com^
 ||ad-id-uswest2.amazonaws.com^
 ||advertising.amazonaws.com^
+||aax-eu.amazon-adsystem.com^
 ||aax-us-east.amazon-adsystem.com^
 ||s3.amazonaws.com^
 ||aax.amazon-adsystem.com^
