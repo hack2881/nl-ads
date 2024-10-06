@@ -242,6 +242,12 @@
 ||m.tiktok.com.edgesuite.net^
 ||log.byteoversea.com^
 
+# [snapchat.com]
+||ads.snapchat.com^
+||adsapi.snapchat.com^
+||tr.snapchat.com^
+||tr6.snapchat.com^
+
 # [twitter.com]
 ||static.ads-twitter.com^
 ||ads-twitter.com^
