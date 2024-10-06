@@ -311,6 +311,10 @@
 ||youtube-ads.com^
 ||yotsuba-edu.jp^
 ||pagead-googlehosted.l.googleusercontent.com^
+||youtube.com/ads^
+||m.youtube.com/ads^
+||googlevideo.com/ads^
+||youtube.com/pagead/*
 
 ==============Mix===============
 # [yahoo.com]
