@@ -91,6 +91,21 @@
 ||ads.adcolony.com^
 ||cdn.adcolony.com^
 ||d.adcolony.com^
+||adc3-assets.adcolony.com^
+||adc3-launch.adcolony.com^
+||androidads20.adcolony.com^
+||androidads21.adcolony.com^
+||androidads23.adcolony.com^
+||androidads4-3.adcolony.com^
+||androidads4-5.adcolony.com^
+||androidads4-7.adcolony.com^
+||androidads4-8.adcolony.com^
+||c4d-cdn.adcolony.com^
+||c4dm.adcolony.com^
+||cpa.adcolony.com^
+||events3.adcolony.com^
+||iosads24.adcolony.com^
+||rtb.adcolony.com^
 
 # [media.net]
 ||media.net^
