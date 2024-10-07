@@ -262,6 +262,32 @@
 ||adsapi.snapchat.com^
 ||tr.snapchat.com^
 ||tr6.snapchat.com^
+||snapchat.com^$third-party
+||snapads.com^$third-party
+||snapchat.com^$script
+||snapads.com^$script
+||snapchat.com^$popup
+||snapads.com^$popup
+||snapchat.com^$other
+||snapads.com^$other
+||snapchat.com^$xmlhttprequest
+||snapads.com^$xmlhttprequest
+||snapchat.com^$document
+||snapads.com^$document
+||snapchat.com^$stylesheet
+||snapads.com^$stylesheet
+||snapchat.com^$image
+||snapads.com^$image
+||snapchat.com^$font
+||snapads.com^$font
+||snapchat.com^$object
+||snapads.com^$object
+||snapchat.com^$media
+||snapads.com^$media
+||snapchat.com^$subdocument
+||snapads.com^$subdocument
+||snapchat.com^$websocket
+||snapads.com^$websocket
 
 # [twitter.com]
 ||static.ads-twitter.com^
