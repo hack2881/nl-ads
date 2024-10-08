@@ -837,4 +837,16 @@
 ||advertisingcrews.com.ph^$third-party
 ||advertisingcrews.com.pr^$third-party
 ||advertisingcrews.com.py^$third-party
+||adsgoogle.com^
+||adsgoogle.biz^
+||adsgoogle.co^
+||adsgoogle.eu^
+||adsgoogle.info^
+||adsgoogle.it^
 ||adsgoogle.mobi^
+||adsgoogle.net^
+||adsgoogle.nl^
+||adsgoogle.org^
+||adsgoogle.co.in^
+||adsgoogle.co.uk^
+||googleads.agency^
