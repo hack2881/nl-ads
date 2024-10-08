@@ -837,3 +837,4 @@
 ||advertisingcrews.com.ph^$third-party
 ||advertisingcrews.com.pr^$third-party
 ||advertisingcrews.com.py^$third-party
+||adsgoogle.mobi^
