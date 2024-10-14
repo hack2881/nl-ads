@@ -75,12 +75,31 @@
 ||stats.l.doubleclick.net^
 ||g.doubleclick.net^
 
-# [googlesyndication.com]
+# [media.net]
+||media.net^
+||ads.media.net^
+||contextual.media.net^
+||adserving.media.net^
+||static.media.net^
+||adservetx.media.net^
+
+# [google ads]
+||pagead2.googlesyndication.com^
 ||googlesyndication.com^
 ||pagead2.googlesyndication.com^
 ||tpc.googlesyndication.com^
 ||afs.googlesyndication.com^
-||pagead2.googlesyndication.com^
+||ade.googlesyndication.com^
+||buttons.googlesyndication.com^
+||c.googlesyndication.com^
+||pagead46.googlesyndication.com^
+||tpcnc.googlesyndication.com^
+||video-ad-stats.googlesyndication.com^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||partner.googleadservices.com^
+||www.googleadservices.com^
+||afs.googlesyndication.com^
 
 # [adcolony.com]
 ||ads30.adcolony.com^
@@ -106,14 +125,6 @@
 ||events3.adcolony.com^
 ||iosads24.adcolony.com^
 ||rtb.adcolony.com^
-
-# [media.net]
-||media.net^
-||ads.media.net^
-||contextual.media.net^
-||adserving.media.net^
-||static.media.net^
-||adservetx.media.net^
 
 ==============analytics=========
 
