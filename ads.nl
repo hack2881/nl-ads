@@ -273,6 +273,8 @@
 ||adsapi.snapchat.com^
 ||tr.snapchat.com^
 ||tr6.snapchat.com^
+||web-gcp.api.snapchat.com^
+||web-gcp.api.sc-gw.com^
 ||snapchat.com^$third-party
 ||snapads.com^$third-party
 ||snapchat.com^$script
