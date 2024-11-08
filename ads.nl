@@ -41,6 +41,7 @@
 ||m.media-amazon.com^
 ||c.amazon-adsystem.com^
 ||c.media-amazon.com^
+||media-amazon.com^
 ||adinfo.amazon.com^
 ||config.aps.amazon-adsystem.com^
 ||vpc-m10n-sterling-157986153.us-east-1.elb.amazonaws.com^
