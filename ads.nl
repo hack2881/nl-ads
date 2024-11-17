@@ -78,6 +78,30 @@
 ||rich-media-dynamic-ads-api.l.doubleclick.net^
 ||stats.l.doubleclick.net^
 ||g.doubleclick.net^
+||doubleclick.agency^
+||doubleclick.am^
+||doubleclick.at^
+||doubleclick.be^
+||doubleclick.biz^
+||doubleclick.bz^
+||doubleclick.cc^
+||doubleclick.ch^
+||doubleclick.cn^
+||doubleclick.co^
+||doubleclick.com^
+||doubleclick.company^
+||doubleclick.de^
+||doubleclick.fr^
+||doubleclick.jp^
+||doubleclick.nl^
+||doubleclick.tw^
+||doubleclick.co.uk^
+||ad-emea.doubleclick.net^
+||betamediavisor.doubleclick.net^
+||cvpn.doubleclick.net^
+||dfpapi.doubleclick.net^
+||dsm.doubleclick.net^
+||motifbeta.doubleclick.net^
 
 # [media.net]
 ||media.net^
