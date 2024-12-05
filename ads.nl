@@ -410,6 +410,7 @@
 ||m.youtube.com/ads^
 ||googlevideo.com/ads^
 ||youtube.com/pagead/*
+||s.ytimg.com^
 
 ==============Mix===============
 
