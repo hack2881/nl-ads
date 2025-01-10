@@ -1,7 +1,7 @@
 ==============Ads===============
 
 # [amazonaws.com]
-||amazonaws.com^
+|amazonaws.com^
 ||ads.amazonaws.com^
 ||ad-id-useast1.amazonaws.com^
 ||ad-id-uswest2.amazonaws.com^
@@ -115,6 +115,7 @@
 ||dfpapi.doubleclick.net^
 ||dsm.doubleclick.net^
 ||motifbeta.doubleclick.net^
+||mediavisor.doubleclick.net^
 
 # [media.net]
 ||media.net^
@@ -139,7 +140,7 @@
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||partner.googleadservices.com^
-||www.googleadservices.com^
+||googleadservices.com^
 ||afs.googlesyndication.com^
 
 # [adcolony.com]
