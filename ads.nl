@@ -1,7 +1,6 @@
 ==============Ads===============
 
 # [amazonaws.com]
-|amazonaws.com^
 ||ads.amazonaws.com^
 ||ad-id-useast1.amazonaws.com^
 ||ad-id-uswest2.amazonaws.com^
