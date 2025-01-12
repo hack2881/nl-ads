@@ -309,6 +309,7 @@
 ||ads.tiktok.com.edgesuite.net^
 ||m.tiktok.com.edgesuite.net^
 ||log.byteoversea.com^
+||mon-*.tiktokv.com^
 
 # [snapchat.com]
 ||ads.snapchat.com^
