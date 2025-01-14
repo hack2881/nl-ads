@@ -270,7 +270,7 @@
 
 ==============Social Trackers===============
 
-# [pixel.facebook.com]
+# [facebook.com]
 ||pixel.facebook.com^
 ||ads.facebook.com^
 ||an.facebook.com^
