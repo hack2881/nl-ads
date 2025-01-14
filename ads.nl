@@ -273,8 +273,8 @@
 # [pixel.facebook.com]
 ||pixel.facebook.com^
 ||ads.facebook.com^
-# [an.facebook.com]
 ||an.facebook.com^
+||graph.facebook.com^
 
 # [linkedin.com]
 ||ads.linkedin.com^
