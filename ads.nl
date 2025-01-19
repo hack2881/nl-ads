@@ -275,6 +275,9 @@
 ||ads.facebook.com^
 ||an.facebook.com^
 ||graph.facebook.com^
+||graph.instagram.com^
+||b-graph.facebook.com^
+||i.instagram.com^
 
 # [linkedin.com]
 ||ads.linkedin.com^
