@@ -597,7 +597,5 @@
 ||samsung-com.112.2o7.net^
 ||analytics-api.samsunghealthcn.com^
 
-===============other===============
-
 # [mail-ads.google.com]
 ||mail-ads.google.com^
