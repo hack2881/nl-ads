@@ -30,7 +30,6 @@
 ||media.net^
 ||adservetx.media.net^
 
-
 !========= Analytics ==========
 
 ! --- Google Analytics
@@ -75,7 +74,6 @@
 ! --- Stats WP Plugin
 ||stats.wp.com^
 
-
 !======= Error Trackers =======
 
 ! --- Bugsnag
@@ -87,7 +85,6 @@
 ! --- Sentry
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
-
 
 !====== Social Trackers =======
 
@@ -125,7 +122,6 @@
 ||ads.tiktok.com^
 ||log.byteoversea.com^
 
-
 !============ Mix =============
 
 ! --- Yahoo
@@ -153,7 +149,6 @@
 ||webview.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
 ||adserver.unityads.unity3d.com^
-
 
 !============ OEMs ============
 
@@ -208,3 +203,14 @@
 
 ! --- gmail
 ||mail-ads.google.com^
+
+!============ darknaija.com ============
+
+||bankingbloatedcaptive.com^
+||d5465f9d11.com^
+||googletagmanager.com^
+||gstatic.com^
+||jfexasdzeak.com^
+||perfect-interest.com^
+||tapioni.com^
+||wpadmngr.com^
