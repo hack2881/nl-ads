@@ -272,3 +272,19 @@
 ||cdn3.ads.pornhub.com^
 ||cdn5.ads.pornhub.com^
 ||ads-exo.pornhub.com^
+
+! --- xvideos.com
+||ads-xvideos.com^
+||syndication.exoclick.com^
+||adserver.xvideos.com^
+||ads.exosrv.com^
+||ads.exoclick.com^
+||syndication.realsrv.com^
+||banners.xvideos-cdn.com^
+||static-hw.xvideos.com^$third-party
+||phoenix-ads.xvideos.com^
+||cdn3.ads.xvideos.com^
+||cdn5.ads.xvideos.com^
+||exads.com^
+||trafficjunky.net^
+||adk2x.com^
