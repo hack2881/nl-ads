@@ -214,3 +214,7 @@
 ||perfect-interest.com^
 ||tapioni.com^
 ||wpadmngr.com^
+||capndr.com^
+||labadena.com^
+||white-bicycle.pro^
+||8b8cac90d0.com^
