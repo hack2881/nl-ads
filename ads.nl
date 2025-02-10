@@ -243,3 +243,4 @@
 ||static.bookmsg.com^
 ||qoijertneio.com^
 ||onesignal.com^
+||srv-darknaija.com^
