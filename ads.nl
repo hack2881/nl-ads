@@ -204,8 +204,9 @@
 ! --- gmail
 ||mail-ads.google.com^
 
-!============ darknaija.com ============
+!============ xx18xx ============
 
+! --- darknaija
 ||bankingbloatedcaptive.com^
 ||d5465f9d11.com^
 ||googletagmanager.com^
@@ -222,3 +223,4 @@
 ||nereserv.com^
 ||71f3eb2dc9.com^
 ||holahupa.com^
+||wpushsdk.com^
