@@ -206,7 +206,18 @@
 
 !============ xx18xx ============
 
-! --- darknaija
+! --- darknaija.com
+||darknaija.com^$popup
+||ads.darknaija.com^
+||banners.darknaija.com^
+||track.darknaija.com^
+||affiliate.darknaija.com^
+||sponsor.darknaija.com^
+||click.darknaija.com^
+||promo.darknaija.com^
+||partners.darknaija.com^
+||redirect.darknaija.com^
+||adserver.darknaija.com^
 ||bankingbloatedcaptive.com^
 ||d5465f9d11.com^
 ||googletagmanager.com^
@@ -247,3 +258,17 @@
 ||assets.ahmybid.net^
 ||hcaptcha.com^
 ||cam4tracking.com^
+
+! --- pornhub.com
+||ads.braze.com^
+||ads-pornhub.com^
+||ads-ph.com^
+||partner.pornhub.com^
+||imp.pornhub.com^
+||syndication.pornhub.com^
+||trafficjunky.net^
+||static-cdn.pornhub.com^$third-party
+||phoenix-ads.pornhub.com^
+||cdn3.ads.pornhub.com^
+||cdn5.ads.pornhub.com^
+||ads-exo.pornhub.com^
