@@ -305,3 +305,4 @@
 ||trafficjunky.net^
 ||adk2x.com^
 ||a.realsrv.com^
+||xaxn-sd.com^
