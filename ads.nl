@@ -226,3 +226,12 @@
 ||wpushsdk.com^
 ||mmcdn.com^
 ||chaturbate.com^
+||cdn44221613.ahacdn.me^
+||cdn.tapioni.com^
+||776a7605bc.e6a30711b5.com^
+||js.wpadmngr.com^
+||js.wpushsdk.com^
+||na.nawpush.com^
+||perfect-interest.com^
+||s.w.org^
+||storage.multstorage.com^
