@@ -235,3 +235,11 @@
 ||perfect-interest.com^
 ||s.w.org^
 ||storage.multstorage.com^
+||assets.ahmybid.net^
+||bf69292cc9.71f3eb2dc9.com^
+||cdn.tapioni.com^
+||js.capndr.com^
+||metricswpsh.com^
+||static.bookmsg.com^
+||qoijertneio.com^
+||onesignal.com^
