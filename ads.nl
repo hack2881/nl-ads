@@ -224,3 +224,5 @@
 ||71f3eb2dc9.com^
 ||holahupa.com^
 ||wpushsdk.com^
+||mmcdn.com^
+||chaturbate.com^
