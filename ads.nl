@@ -246,3 +246,4 @@
 ||srv-darknaija.com^
 ||assets.ahmybid.net^
 ||hcaptcha.com^
+||cam4tracking.com^
