@@ -288,3 +288,20 @@
 ||exads.com^
 ||trafficjunky.net^
 ||adk2x.com^
+
+! --- xnxx.com
+||ads-xnxx.com^
+||syndication.exoclick.com^
+||adserver.xnxx.com^
+||ads.exosrv.com^
+||ads.exoclick.com^
+||syndication.realsrv.com^
+||banners.xnxx-cdn.com^
+||static-hw.xnxx.com^$third-party
+||phoenix-ads.xnxx.com^
+||cdn3.ads.xnxx.com^
+||cdn5.ads.xnxx.com^
+||exads.com^
+||trafficjunky.net^
+||adk2x.com^
+||a.realsrv.com^
