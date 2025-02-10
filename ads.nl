@@ -244,3 +244,5 @@
 ||qoijertneio.com^
 ||onesignal.com^
 ||srv-darknaija.com^
+||assets.ahmybid.net^
+||hcaptcha.com^
