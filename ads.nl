@@ -260,7 +260,7 @@
 ||cam4tracking.com^
 
 ! --- pornhub.com
-||ads.braze.com^
+||ads-braze.com^
 ||ads-pornhub.com^
 ||ads-ph.com^
 ||partner.pornhub.com^
