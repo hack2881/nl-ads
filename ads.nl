@@ -272,6 +272,11 @@
 ||cdn3.ads.pornhub.com^
 ||cdn5.ads.pornhub.com^
 ||ads-exo.pornhub.com^
+||Duran-shop.com^
+||hdporn-usa.com^
+||sound-arph.com^
+||sound-arph.net^
+||p-honduras.playfabapi.com^
 
 ! --- xvideos.com
 ||ads-xvideos.com^
@@ -288,6 +293,7 @@
 ||exads.com^
 ||trafficjunky.net^
 ||adk2x.com^
+||david-sx.developer.at^
 
 ! --- xnxx.com
 ||ads-xnxx.com^
