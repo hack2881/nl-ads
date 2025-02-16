@@ -314,3 +314,20 @@
 ||xaxn-sd.com^
 ||aucdn.net^
 ||orbsrv.com^
+
+! --- outlook
+||outlook.live.com/mail/advertisement^
+||ads.microsoft.com^
+||secure.adnxs.com^
+||adnxs.com^
+||ads.msn.com^
+||c.msn.com^
+||g.msn.com^
+||rad.msn.com^
+||officeapps.live.com^$third-party
+||outlook.office365.com^$third-party
+||login.live.com^$popup
+||office.live.com^$popup
+||telemetry.microsoft.com^
+||events.data.microsoft.com^
+||browser.events.data.msn.com^
