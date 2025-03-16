@@ -107,9 +107,10 @@
 ||trk.pinterest.com^
 
 ! --- Reddit
+||m.reddit.com^
+||s.reddit.com^
 ||ads.reddit.com^
 ||out.reddit.com^
-||reddit.map.fastly.net^
 ||events.reddit.com^
 ||events.redditmedia.com^
 
