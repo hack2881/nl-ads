@@ -205,7 +205,9 @@
 ||notes-analytics-events.apple.com^
 
 ! --- gmail
-||mail-ads.google.com^
+||mail.ads.google.com^
+||mail.google.com/mail/u/*/ads/$app
+||gstatic.com/chip/gmail/*$app
 
 !============ xx18xx ============
 
