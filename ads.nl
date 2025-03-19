@@ -8,6 +8,7 @@
 
 ! --- Google Ads
 ||ads.google.com^
+||googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
