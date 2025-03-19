@@ -7,6 +7,7 @@
 ||advice-ads.s3.amazonaws.com^
 
 ! --- Google Ads
+||ads.google.com^
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
