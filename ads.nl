@@ -32,6 +32,12 @@
 ||media.net^
 ||adservetx.media.net^
 
+! --- fastclick.com
+||fastclick.com^
+||fastclick.net^
+||media.fastclick.net^
+||cdn.fastclick.net^
+
 !========= Analytics ==========
 
 ! --- Google Analytics
