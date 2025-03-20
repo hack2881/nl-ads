@@ -108,6 +108,8 @@
 ||log.pinterest.com^
 ||analytics.pinterest.com^
 ||trk.pinterest.com^
+||ads-dev.pinterest.com^
+||widgets.pinterest.com^
 
 ! --- Reddit
 ||m.reddit.com^
