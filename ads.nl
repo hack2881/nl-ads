@@ -57,6 +57,7 @@
 
 ! --- MouseFlow
 ||mouseflow.com^
+||a.mouseflow.com^
 ||cdn.mouseflow.com^
 ||o2.mouseflow.com^
 ||gtm.mouseflow.com^
