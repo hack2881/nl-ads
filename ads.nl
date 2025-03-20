@@ -98,6 +98,7 @@
 ! --- Twitter
 ||static.ads-twitter.com^
 ||ads-api.twitter.com^
+||advertising.twitter.com^
 
 ! --- LinkedIn
 ||ads.linkedin.com^
