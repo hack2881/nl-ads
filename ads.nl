@@ -93,6 +93,7 @@
 ! --- Facebook
 ||pixel.facebook.com^
 ||an.facebook.com^
+||analytics.facebook.com^
 
 ! --- Twitter
 ||static.ads-twitter.com^
