@@ -116,6 +116,8 @@
 ||out.reddit.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
+||d.reddit.com^
+||rereddit.com^
 
 ! --- YouTube
 ||ads.youtube.com^
