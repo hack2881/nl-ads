@@ -119,6 +119,7 @@
 
 ! --- YouTube
 ||ads.youtube.com^
+||youtube.cleverads.vn^
 
 ! --- TikTok
 ||ads-api.tiktok.com^
