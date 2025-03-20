@@ -155,6 +155,8 @@
 ||log.fc.yahoo.com^
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
+||ads.yap.yahoo.com^
+||global.adserver.yahoo.com^
 
 ! --- Yandex
 ||extmaps-api.yandex.net^
