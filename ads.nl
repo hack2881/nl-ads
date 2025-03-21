@@ -167,6 +167,7 @@
 ||adfox.yandex.ru^
 ||yandexadexchange.net^
 ||appmetrica.yandex.com^
+||analytics.mobile.yandex.net^
 
 ! --- Unity
 ||auction.unityads.unity3d.com^
