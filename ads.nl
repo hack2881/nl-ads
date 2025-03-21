@@ -165,6 +165,8 @@
 ||metrika.yandex.ru^
 ||offerwall.yandex.net^
 ||adfox.yandex.ru^
+||yandexadexchange.net^
+||appmetrica.yandex.com^
 
 ! --- Unity
 ||auction.unityads.unity3d.com^
