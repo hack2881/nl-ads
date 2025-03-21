@@ -216,6 +216,9 @@
 ||nmetrics.samsung.com^
 ||samsung-com.112.2o7.net^
 ||analytics-api.samsunghealthcn.com^
+||ad.samsungadhub.com^
+||samsungadhub.com^
+||business.samsungusa.com^
 
 ! --- Apple
 ||iadsdk.apple.com^
