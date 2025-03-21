@@ -191,6 +191,10 @@
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||tracking.rus.miui.com^
+||tracking.miui.com^
+||tracking.intl.miui.com^
+||tracking.india.miui.com^
+
 
 ! --- Oppo
 ||adsfs.oppomobile.com^
