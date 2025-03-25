@@ -128,6 +128,7 @@
 ||events.redditmedia.com^
 ||d.reddit.com^
 ||rereddit.com^
+||promoted.reddit.com^
 
 ! --- YouTube
 ||ads.youtube.com^
