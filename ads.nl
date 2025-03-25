@@ -232,6 +232,8 @@
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
+||securemetrics.apple.com^
+||supportmetrics.apple.com^
 
 ! --- gmail
 ||mail.ads.google.com^
