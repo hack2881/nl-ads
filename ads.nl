@@ -237,7 +237,9 @@
 ||supportmetrics.apple.com^
 
 ! --- gmail
+||ad.mail.ru^
 ||mail.ads.google.com^
+||mail-ads.google.com^
 ||mail.google.com/mail/u/*/ads/$app
 ||gstatic.com/chip/gmail/*$app
 
