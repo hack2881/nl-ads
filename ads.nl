@@ -368,3 +368,30 @@
 ||telemetry.microsoft.com^
 ||events.data.microsoft.com^
 ||browser.events.data.msn.com^
+
+! Blokkeer advertenties in de Twitch-app
+||ads.twitch.tv^ ||gql.twitch.tv/gql#%7B"operationName":"PlaybackAccessToken"%7D$replace=/"https://.?/.?/.?/"/""/i
+||usher.ttvnw.net^$important 
+||spade.twitch.tv^
+||video-weaver..hls.ttvnw.net^
+||ttvnw.net^$media
+
+! Verberg gesponsorde secties www.twitch.tv##.ad-banner www.twitch.tv##.sponsorship www.twitch.tv##.community-highlight-card
+
+! Blokkeer tracking en analytics
+||impression.twitch.tv^
+||tracker.twitch.tv^
+||collector.twitch.tv^
+||vod.ttvnw.net^
+
+! Extra bescherming tegen nieuwe
+advertentiebronnen
+||api.twitch.tv/v5/ads^
+||static.twitchcdn.net/ad*
+||twitch.tv##+js(twitch-disable-player-ads)
+
+! Blokkeer pre-roll advertenties
+||usher.ttvnw.net/api/channel/hls/*$important
+||twitch.tv##+js(set,JSON.parse,noopFunc)
+
+
