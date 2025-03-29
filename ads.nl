@@ -393,5 +393,3 @@ advertentiebronnen
 ! Blokkeer pre-roll advertenties
 ||usher.ttvnw.net/api/channel/hls/*$important
 ||twitch.tv##+js(set,JSON.parse,noopFunc)
-
-
