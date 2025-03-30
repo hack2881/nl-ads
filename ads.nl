@@ -354,6 +354,20 @@
 ||aucdn.net^
 ||orbsrv.com^
 
+! --- ebonybaddies.com
+||ads-ebonybaddies.com^
+||adserver.ebonybaddies.com^
+||banners.ebonybaddies.com^
+||track.ebonybaddies.com^
+||affiliate.ebonybaddies.com^
+||promo.ebonybaddies.com^
+||partners.ebonybaddies.com^
+||redirect.ebonybaddies.com^
+||trafficjunky.net^
+||exads.com^
+||syndication.exoclick.com^
+||cdn.ebonybaddies.com/ads^
+
 ! --- outlook
 ||outlook.live.com/mail/advertisement^
 ||ads.microsoft.com^
