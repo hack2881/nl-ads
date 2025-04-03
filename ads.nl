@@ -5,7 +5,11 @@
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
+||amazonaax.com^
+||amazonclix.com^
+||assoc-amazon.com^
 
 ! --- Google Ads
 ||ads.google.com^
