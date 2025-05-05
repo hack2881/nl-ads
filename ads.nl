@@ -59,6 +59,7 @@
 ||surveys.hotjar.com^
 ||careers.hotjar.com^
 ||events.hotjar.io^
+||hotjar-analytics.com^
 
 ! --- MouseFlow
 ||mouseflow.com^
