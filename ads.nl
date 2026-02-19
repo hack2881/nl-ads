@@ -46,6 +46,7 @@
 !========= Analytics ==========
 
 ! --- Google Analytics
+||analytics^
 ||analytics.google.com^
 ||click.googleanalytics.com^
 ||google-analytics.com^
